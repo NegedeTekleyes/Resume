@@ -6,24 +6,24 @@
 📧 negedetekleyes33@gmail.com  
 📞 +251 94 141 6514  
 🔗 GitHub: https://github.com/NegedeTekleyes  
-🔗 LinkedIn: https://www.linkedin.com/in/negede-tekleyes
+🔗 LinkedIn: https://www.linkedin.com/in/negede-tekleyes-46ab01340
 
 ---
 
 ## 👤 Profile
 
-Motivated Computer Science student at Debre Birhan University with a strong interest in full-stack web development and system design. Hands-on experience building real-world projects using modern web technologies. Passionate about learning, problem-solving, and developing scalable, user-focused applications. Seeking a **Full-Stack Developer Internship** to gain industry experience and grow professionally.
+Motivated  with a strong interest in Software development and system design. Hands-on experience building projects using modern web technologies. Passionate about learning, problem-solving, and developing scalable, user-focused applications. Seeking a **Full-Stack Developer Internship** to gain industry experience and grow professionally.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science**  
+**Bachelor of Computer Science**  
 Debre Birhan University, Ethiopia  
 _Expected Graduation: January 2026_
 
 - Relevant Coursework: Web Development, Database Systems, Software Engineering, Data Structures
-- GPA: **3.35 / 4.0**
+
 
 ---
 
@@ -52,6 +52,11 @@ _Expected Graduation: January 2026_
 - RESTful APIs
 - Python(Beginner)
 
+  
+### Mobile
+
+ - React Native
+
 ### Databases
 
 - PostgreSQL
@@ -61,8 +66,8 @@ _Expected Graduation: January 2026_
 ### Tools & Platforms
 
 - Git & GitHub
-  -Docker(Basics)
-- Visual Studio Code
+- Docker(Basics)
+
 
 ---
 
@@ -73,13 +78,13 @@ _Expected Graduation: January 2026_
 - Developed a reporting platform inspired by _Shega_ to collect, manage, and display structured reports and updates.
 - Implemented clean UI components and dynamic data rendering.
 - Focused on usability, clarity of information, and scalable structure.
-- **Tech Stack:** Nextjs, Nest.js,Prisma, ReactNative and PostgreSQL
+- **Tech Stack:** Nextjs, Nest.js,Prisma, React Native and PostgreSQL
 
 ### 🌐 Personal Portfolio Website
 
 - Built a personal portfolio to showcase academic and personal projects.
 - Implemented responsive design and optimized performance and accessibility.
-- **Tech Stack:** HTML, CSS, JavaScript
+- **Tech Stack:** Next.js, Tailwind CSS
 - 🔗 GitHub: https://github.com/NegedeTekleyes
 
 ---
